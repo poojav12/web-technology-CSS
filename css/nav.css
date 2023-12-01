@@ -1,0 +1,38 @@
+
+.navbar {
+    border: 2px solid black;
+    height: 75px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+
+}
+
+.logoblock {
+
+    height: 75px;
+    width: 300px;
+
+}
+
+.menublock {
+
+    height: 75px;
+    width: 500px;
+}
+
+.logoblock>img {
+    height: 75px;
+}
+
+ul {
+
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;        }
